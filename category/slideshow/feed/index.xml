@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Slideshow &#8211; PROFOUND ENGINEERING INC.</title>
+	<atom:link href="/category/slideshow/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Engineering Consulting Services</description>
+	<lastBuildDate>Sun, 26 Jan 2020 15:29:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2020/01/cropped-01-2-3-32x32.jpg</url>
+	<title>Slideshow &#8211; PROFOUND ENGINEERING INC.</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Structural Design and Analysis</title>
+		<link>/services/</link>
+					<comments>/services/#respond</comments>
+		
+		<dc:creator><![CDATA[Andy]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2016 00:26:26 +0000</pubDate>
+				<category><![CDATA[Slideshow]]></category>
+		<guid isPermaLink="false">http://35.211.155.130/?p=104</guid>
+
+					<description><![CDATA[+ Inspection, Commissioning, Forensic and Failure Analysis among other engineering services]]></description>
+		
+					<wfw:commentRss>/services/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Global Project Portfolio</title>
+		<link>/projects/</link>
+					<comments>/projects/#respond</comments>
+		
+		<dc:creator><![CDATA[Andy]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2016 00:22:27 +0000</pubDate>
+				<category><![CDATA[Main]]></category>
+		<category><![CDATA[Slideshow]]></category>
+		<guid isPermaLink="false">http://35.211.155.130/?p=102</guid>
+
+					<description><![CDATA[Includes process plant engineering work, structural steel design .. and more]]></description>
+		
+					<wfw:commentRss>/projects/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Serving Waste Water Treatment Sector</title>
+		<link>/sectors/</link>
+		
+		<dc:creator><![CDATA[Andy]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2016 23:43:02 +0000</pubDate>
+				<category><![CDATA[Slideshow]]></category>
+		<guid isPermaLink="false">http://35.211.155.130/?p=82</guid>
+
+					<description><![CDATA[in addition to Oil &#38; Gas, Power Generation, and other sectors]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
